@@ -1,8 +1,8 @@
 ![](https://github.com/mustafagol/mustafagol/blob/cc9f1561e2470857ba2054cd73312b0432278b75/icons/Capa---Artigo-de-Blog--Data-Science-Tudo-o-que-voce%CC%82-precisa-saber-antes-de-iniciar-um-projeto.jpg)
 
-### Hi I am Mustafa 👋
+### Hi, my name is Mustafa 👋
 
-I am self-learner data scientist.
+I am a self-learner data scientist.
 
 * 🔭 Currently working on projects at Omdena where data enthusiast from all over the world can collaborate and contribute real world problems.
 * 💻 Currently learning AI algorithms, MLOPS and cloud.
