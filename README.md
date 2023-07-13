@@ -4,9 +4,10 @@
 
 I am self-learner data scientist.
 
-💻 currently learning AI algorithms, MLOPS and cloud.
-☁️ 6+ years of experience in IT/Telecom.
-🎓 graduated from Electronics and Communication Engineering.
+* 🔭 Currently working on projects at Omdenna where data enthusiast can contribute real world problems.
+* 💻 Currently learning AI algorithms, MLOPS and cloud.
+* ☁️ 6+ years of experience in IT/Telecom.
+* 🎓 graduated from Electronics and Communication Engineering.
 
 ![](https://komarev.com/ghpvc/?username=mustafagol)
 
