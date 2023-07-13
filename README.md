@@ -1,4 +1,4 @@
-
+![](https://github.com/mustafagol/mustafagol/blob/cc9f1561e2470857ba2054cd73312b0432278b75/icons/Capa---Artigo-de-Blog--Data-Science-Tudo-o-que-voce%CC%82-precisa-saber-antes-de-iniciar-um-projeto.jpg)
 
 ### Hi I am Mustafa 👋
 
