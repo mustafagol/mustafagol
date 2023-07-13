@@ -1,6 +1,15 @@
 
+
+### Hi I am Mustafa 👋
+
+I am self-learner data scientist.
+
+💻 currently learning AI algorithms, MLOPS and cloud.
+☁️ 6+ years of experience in IT/Telecom.
+🎓 graduated from Electronics and Communication Engineering.
+
 ![](https://komarev.com/ghpvc/?username=mustafagol)
-### Hi there 👋
+
 <!--
 **mustafagol/mustafagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
