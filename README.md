@@ -4,7 +4,7 @@
 
 I am self-learner data scientist.
 
-* 🔭 Currently working on projects at Omdena where data enthusiast can contribute real world problems.
+* 🔭 Currently working on projects at Omdena where data enthusiast from all over the world can collaborate and contribute real world problems.
 * 💻 Currently learning AI algorithms, MLOPS and cloud.
 * ☁️ 6+ years of experience in IT/Telecom.
 * 🎓 Graduated from Electronics and Communication Engineering.
