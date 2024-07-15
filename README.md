@@ -2,11 +2,11 @@
 
 ### Hi, my name is Mustafa 👋
 
-I am a self-learner data scientist.
+I am a self-learner data enthusiast.
 
-* 🔭 Currently working on projects at Omdena where data enthusiast from all over the world can collaborate and contribute real world problems.
-* 💻 Currently learning AI algorithms, MLOPS and cloud.
-* ☁️ 6+ years of experience in IT/Telecom.
+* 🔭 Working as a data analyst in telecommunication service provider.
+* 💻 Currently learning data warehousing, cloud, generetive AI.
+* ☁️ 7+ years of experience in IT/Telecom.
 * 🎓 Graduated from Electronics and Communication Engineering.
 
 ![](https://komarev.com/ghpvc/?username=mustafagol)
